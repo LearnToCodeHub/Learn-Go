@@ -8,3 +8,4 @@ This README gathers useful resources for learning Go.
 
 - **Alex Mux**: [Tutorial introdutório sobre a linguagem Go](https://www.youtube.com/watch?v=8uiZC0l4Ajw&ab_channel=AlexMux)
 
+- **Tiago**: [A practical demonstration of building a CRUD application in Go](https://www.youtube.com/watch?v=h3fqD6IprIA)
