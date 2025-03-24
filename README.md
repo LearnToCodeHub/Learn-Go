@@ -11,5 +11,5 @@ This README gathers useful resources for learning Go.
 - **Tiago**: [A practical demonstration of building a CRUD application in Go](https://www.youtube.com/watch?v=h3fqD6IprIA)
 
 - **Go Basics**: [Introduction to Go programming:](https://www.youtube.com/watch?v=tgGNwG_UxFo)
-- 
+
 - **Golang Tutorial**: [Comprehensive guide to Go](https://www.youtube.com/watch?v=YzLrWHZa-Kc)  
